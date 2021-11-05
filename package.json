@@ -1,5 +1,6 @@
 {
 	"name": "platform-sdk",
+	"version": "1.0.0",
 	"private": true,
 	"description": "Cross-Platform Utilities for ARK Applications",
 	"dependencies": {
